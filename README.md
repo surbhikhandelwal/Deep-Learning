@@ -6,3 +6,5 @@ Using the Convolutional Neural Network algorithm trained the model on the traini
 on test data to identify the digits in the images as close as possible.
 
 Achieved 99.3% accuracy
+
+Output of test data is stored in cnn_datagen.csv
